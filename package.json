@@ -15,7 +15,8 @@
     "@strapi/strapi": "4.3.4",
     "pg": "^8.7.3",
     "pg-connection-string": "^2.5.0",
-    "strapi-plugin-config-sync": "^1.0.3"
+    "strapi-plugin-config-sync": "^1.0.3",
+    "strapi-v4-provider-email-postmark": "^4.2.0"
   },
   "devDependencies": {
     "better-sqlite3": "7.4.6"
